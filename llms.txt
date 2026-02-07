@@ -1,0 +1,34 @@
+# CaliberAI
+
+> AI-powered performance review moderation for enterprise and government organizations in the GCC and MENA region.
+
+CaliberAI is a SaaS platform that uses artificial intelligence to eliminate bias, inconsistency, and compliance gaps in employee performance appraisals. It integrates with existing HR systems like Oracle HCM and SAP SuccessFactors as an intelligent moderation layer.
+
+## Core Capabilities
+
+- **Bias Detection**: Scans performance reviews for 14 types of cognitive bias including recency bias, halo effect, cultural bias, and gender bias. Issues are flagged and scored before calibration.
+- **Language Moderation**: Identifies vague, non-actionable, or emotionally charged review language and suggests evidence-based rewrites that preserve manager intent while improving clarity.
+- **Calibration Analytics**: Provides real-time rating distribution analysis across teams, departments, and geographies to identify inflation, deflation, and outlier patterns.
+- **GCC Compliance**: Built-in compliance checks aligned with UAE, Saudi Arabia, and Qatar labor regulations including Emiratisation and Saudization performance criteria.
+- **Arabic Language Support**: Full support for Arabic review analysis, RTL text processing, and bilingual moderation.
+- **Enterprise Integration**: Native integration with Oracle HCM, SAP SuccessFactors, and major HRMS platforms.
+
+## Target Market
+
+CaliberAI serves enterprise HR teams and government organizations across the Gulf Cooperation Council (GCC) and broader MENA region, including the UAE, Saudi Arabia, Qatar, Bahrain, Kuwait, and Oman.
+
+## Security and Compliance
+
+- SOC 2 Type II audited
+- ISO 27001 certified
+- UAE Personal Data Protection Law (PDPL) compliant
+- DIFC and ADGM data protection compliant
+- AES-256 encryption at rest and in transit
+- GCC data residency (UAE and KSA cloud regions)
+- On-premise and air-gapped deployment options for government entities
+- Zero data retention policy — customer data is never used for model training
+
+## Contact
+
+- Website: https://caliberai.io
+- Email: hello@caliberai.io
